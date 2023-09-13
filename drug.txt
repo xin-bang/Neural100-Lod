@@ -1,0 +1,1 @@
+#anaid	run	sample	resis_name	resis_gene	resis_DrugLog	resis_DrugName	resis_MutLog	resis_mut	resis_RawDep	resis_rpk	resis_mut_ratio
